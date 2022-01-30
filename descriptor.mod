@@ -4,4 +4,4 @@ tags={
 	"Fixes"
 }
 picture="gna_cover_card.png"
-supported_version="2.2.*"
+supported_version="3.2.2"
